@@ -1,0 +1,12 @@
+# Q-SVR: REINFORCEMENT LEARNING BY APPROXIMATING THE ACTION-VALUE FUNCTION USING SUPPORT VECTOR MACHINES
+
+
+## Install 
+
+using python=3.8.16, install poetry==1.8.1
+
+```
+poetry install
+```
+
+
